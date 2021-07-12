@@ -20,14 +20,14 @@ is 53 and the hash value is 53 for this key.
 
 The menu driven user interface provides the following operations to be performed on the hash table:
 
-**1.** Initialize Hash Table
+   **1.** Initialize Hash Table
 
-**2.** Load T.C. ID Numbers from file
+  **2.** Load T.C. ID Numbers from file
 
-**3.** Add new T.C. ID Number
+  **3.** Add new T.C. ID Number
 
-**4.** Delete a T.C. ID Number
+  **4.** Delete a T.C. ID Number
 
-**5.** Search for a T.C. ID Number
+  **5.** Search for a T.C. ID Number
 
-**6.** Print out Hash Table
+  **6.** Print out Hash Table
